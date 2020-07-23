@@ -1,5 +1,5 @@
 # Vehicle-speed-detection
-Vehicle Speed Detection is an Python Application to track or detect the speed of a moving vehicle.
+Vehicle Speed Detection is a Python Script to track and detect the speed of a moving vehicle. This script can automatically detect the lane in the highway and split the output based on each lane and automatically capture the image of an overspeeding vehicle.
 
 Here is an output  of the program :
 
